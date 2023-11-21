@@ -1,6 +1,7 @@
 # Water Flow Data Explorer
 
 Welcome to the Water Flow Data Explorer! This Shiny web application allows users to explore, visualize, and analyze water flow data using an intuitive interface.
+[flowApp](https://yuehaowang.shinyapps.io/flowApp/).
 
 ## Overview
 
@@ -10,6 +11,12 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 - **Visualize Data:** View histograms, density plots, and line plots to understand the distribution and trends in the flow data.
 - **Download Data:** Obtain filtered data as a CSV file for further analysis.
 
+## Data
+
+The data used in this app is from datateachr [flow_sample](https://github.com/UBC-MDS/datateachr).
+
+
+
 ## Features
 
 ### Select Extreme Type and Year Range
@@ -18,6 +25,7 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 
 ### Visualizations
 
+- **Data table:** display filtered data.
 - **Histogram:** Shows the distribution of flow data.
 - **Density Plot:** Illustrates the density of the flow data.
 - **Flow Plot:** Displays the flow data trends over the selected years.
@@ -25,6 +33,10 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 ### Linear Model Prediction
 
 - Utilizes a simple linear model to predict flow values based on the chosen year.
+
+### Download
+
+- Download the filtered data as a CSV file
 
 ## Getting Started
 
@@ -44,10 +56,4 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 2. Set your working directory to the folder containing the app files.
 3. Run the app using the `shiny::runApp()` function.
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
