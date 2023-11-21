@@ -10,17 +10,11 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 - **Visualize Data:** View histograms, density plots, and line plots to understand the distribution and trends in the flow data.
 - **Download Data:** Obtain filtered data as a CSV file for further analysis.
 
-## Data
-
 ## Features
 
 ### Select Extreme Type and Year Range
 
 - Use the sidebar panel to select an extreme type and set a specific year range for data filtering.
-
-### Data table
-
-- Use a data table to display filtered data.
 
 ### Visualizations
 
@@ -31,10 +25,6 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 ### Linear Model Prediction
 
 - Utilizes a simple linear model to predict flow values based on the chosen year.
-
-### Download filtered data
-
-- Downloading filtered data as a CSV file.
 
 ## Getting Started
 
@@ -58,4 +48,6 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 
 Contributions are welcome! Feel free to open issues or submit pull requests for any enhancements or bug fixes.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
