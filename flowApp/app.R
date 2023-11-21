@@ -16,7 +16,7 @@ ui <- fluidPage(
 
   titlePanel("Water Flow Data Explorer"),
 
-  # Adding descriptive text
+  # Adding descriptive text in the page
   tags$p("Welcome to the Water Flow Data Explorer! This application allows you to explore and analyze water flow data."),
   tags$p("Use the options on the left to select an extreme type and a specific year range to filter the data."),
   tags$p("You can download the filtered data as a CSV file for further analysis."),
