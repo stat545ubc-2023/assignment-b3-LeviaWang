@@ -1,8 +1,9 @@
 # flowApp : Water Flow Data Explorer
 
 Welcome to the Water Flow Data Explorer! This Shiny web application allows users to explore, visualize, and analyze water flow data using an intuitive interface.
+You can find the app in the shinyapps.io.[flowApp_V2](https://yuehaowang.shinyapps.io/flowApp_V2/).
+The old version of flowApp[flowApp_V1](https://yuehaowang.shinyapps.io/flowApp/).
 
-You can find the app in the shinyapps.io.[flowApp_V1](https://yuehaowang.shinyapps.io/flowApp/).
 
 ## Overview
 
@@ -21,7 +22,7 @@ The Water Flow Data Explorer is designed to provide users with the capability to
 
 ### Enhanced Chart Download Capability
 
-- This feature offers users the ability to download statistical charts. In version 1, only data download was available. Now, users can download not only the filtered data but also the corresponding histograms and other charts.
+- This feature offers users the ability to download statistical charts as PNG file. In version 1, only data download was available. Now, users can download not only the filtered data but also the corresponding histograms and other charts.
 
 ### Dynamic Color Customizer for Charts
 
