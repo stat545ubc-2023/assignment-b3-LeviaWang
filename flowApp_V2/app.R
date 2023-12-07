@@ -35,7 +35,7 @@ ui <- navbarPage(
   ),
 
   tabPanel(
-    "Data visulization",
+    "Data visualization",
     #If the user want to down load the plot for their presentation, they may want different color for their slides.
     # Add a color choose function to let user choose the color of plot.
     colourInput("colorInput", "Choose a color for your plot:", value = "#00A2FF"),
