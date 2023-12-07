@@ -7,7 +7,7 @@ library(shinythemes)
 library(colourpicker)
 
 # Load dataset
-load("flow_sample.rda")
+read.csv("data/flow_sample.csv")
 
 
 # UI section
