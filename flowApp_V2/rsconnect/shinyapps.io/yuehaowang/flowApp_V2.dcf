@@ -1,0 +1,12 @@
+name: flowApp_V2
+title: flowApp_V2
+username: yuehaowang
+account: yuehaowang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10740253
+bundleId: 8018387
+url: https://yuehaowang.shinyapps.io/flowApp_V2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

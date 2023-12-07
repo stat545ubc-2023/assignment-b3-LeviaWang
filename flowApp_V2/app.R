@@ -7,8 +7,7 @@ library(shinythemes)
 library(colourpicker)
 
 # Load dataset
-read.csv("data/flow_sample.csv")
-
+load("data/flow_sample.rda")
 
 # UI section
 ui <- navbarPage(
